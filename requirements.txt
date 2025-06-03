@@ -1,0 +1,26 @@
+# Core app framework
+streamlit
+
+# Environment variable management
+python-dotenv
+
+# Authentication and password hashing
+bcrypt
+
+# HTTP requests (if your app fetches data from an API)
+requests
+
+# Data handling
+pandas
+
+# JSON and token handling (if needed for session management)
+pyjwt
+
+# Streamlit form handling or routing (optional)
+streamlit-option-menu
+
+# For working with paths and OS operations
+pathlib
+
+# Other optional (but common) packages
+numpy
