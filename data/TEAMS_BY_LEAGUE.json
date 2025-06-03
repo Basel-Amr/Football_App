@@ -1,0 +1,69 @@
+{
+    "English Premier League": {
+        "teams": [
+            "Arsenal", "Aston Villa", "Bournemouth", "Brentford", "Brighton",
+            "Burnley", "Chelsea", "Crystal Palace", "Everton", "Fulham",
+            "Liverpool", "Luton Town", "Manchester City", "Manchester United",
+            "Newcastle", "Nottingham Forest", "Sheffield United", "Tottenham",
+            "West Ham", "Wolves", "Southampton", "Ipswich", "Leicester"
+        ]
+    },
+    "La Liga": {
+        "teams": [
+            "Barcelona", "Real Madrid", "Atletico Madrid", "Sevilla", "Valencia",
+            "Villarreal", "Real Betis", "Real Sociedad", "Athletic Bilbao",
+            "Celta Vigo", "Getafe", "Granada", "Levante", "Osasuna", "Mallorca",
+            "Alaves", "Eibar", "Cadiz", "Rayo Vallecano", "Elche"
+        ]
+    },
+    "Serie A": {
+        "teams": [
+            "Juventus", "Inter", "AC Milan", "Roma", "Lazio", "Napoli",
+            "Fiorentina", "Torino", "Atalanta", "Bologna", "Cagliari", "Empoli",
+            "Genoa", "Hellas Verona", "Lecce", "Parma", "Sampdoria", "Sassuolo",
+            "Spezia", "Udinese"
+        ]
+    },
+    "Bundesliga": {
+        "teams": [
+            "Bayern Munich", "Borussia Dortmund", "RB Leipzig", "Bayer Leverkusen",
+            "Wolfsburg", "Eintracht Frankfurt", "Hoffenheim", "Freiburg",
+            "Mainz", "Cologne", "Union Berlin", "Stuttgart", "Werder Bremen",
+            "Augsburg", "Hertha Berlin", "Bochum", "Schalke", "Gladbach"
+        ]
+    },
+    "Champions League": {
+        "teams": [
+            "Real Madrid", "Manchester City", "Bayern Munich", "Barcelona", "Liverpool",
+            "PSG", "Chelsea", "Juventus", "Inter Milan", "Atletico Madrid", "AC Milan",
+            "Dortmund", "RB Leipzig", "Porto", "Benfica", "Ajax"
+        ]
+    },
+    "Ligue 1": {
+        "teams": [
+            "PSG", "Marseille", "AS Monaco", "Nice"
+        ]
+    },
+    "Egyptian Premier League": {
+        "teams": [
+            "Al Ahly", "Pyramids", "Zamalek"
+        ]
+    },
+    "Club World Championship": {
+        "teams": [
+            "Al Ahly"," Porto", "Inter Miami", "Palmeiras",
+            "Atletico Madrid", "Botafogo", "PSG", "Seattle",
+            "Auckland City", "Bayern Munich", "Boca Joniors", "Benfica",
+            "Chelsea", "Flamengo", "Esperance", "Los Anglos",
+            "River Plate", "Monterrey", "Inter Milan","Urawa Reds",
+            "Dortmund", "Flumienese", "Sundowns", "Ulsan",
+            "Al-Ain", "Juventus", "Manchester City", "WAC",
+            "Al-Hilal", "Pachuca", "RB Salzburg", "Real Madrid"
+        ]
+    },
+    "UEFA Nations League": {
+        "teams": [
+            "Germany"," Portugal", "Spain", "France"
+        ]
+    }
+}
